@@ -226,6 +226,7 @@ header {
 	justify-content: center;
 	align-items: center;
 	background-image: url("../images/pexels-apasaric-1694000.jpg");
+	background-size: cover;
 }
 
 .section-about h2 {
