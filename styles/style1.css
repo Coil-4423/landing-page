@@ -284,6 +284,7 @@ header {
 	width: 16rem;
 	text-align: center;
 	font-size: 2rem;
+	border-radius: 0.5rem;
 }
 
 @media(min-width:50em) {
