@@ -5,6 +5,7 @@ body {
 	line-height: 1.5;
 	color: #ffffff;
 	background-color: rgb(110, 110, 110);
+	width: 100vw;
 }
 
 h1,
@@ -219,7 +220,7 @@ header {
 
 /* section About */
 .section-about {
-	font-size: 3rem;
+	font-size: 2rem;
 	padding: 10%;
 	display: flex;
 	flex-direction: column;
@@ -257,7 +258,7 @@ header {
 	align-items: center;
 	background-color: #000000;
 	border-radius: 10px;
-	min-width: 320px;
+	/* min-width: 320px; */
 }
 
 .project img {
@@ -280,7 +281,7 @@ header {
 .project-link {
 	background-color: #dbd714;
 	padding: 1rem;
-	width: 300px;
+	width: 16rem;
 	text-align: center;
 	font-size: 2rem;
 }
