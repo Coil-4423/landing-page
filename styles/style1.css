@@ -104,7 +104,7 @@ header {
 } */
 
 .site-header {
-	padding: 0 1rem;
+	/* padding: 0 1rem; */
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -229,7 +229,7 @@ header {
 	background-size: cover;
 }
 
-.section-about h2 {
+.section-about h1 {
 	font-size: 3.5rem;
 }
 
@@ -239,6 +239,10 @@ header {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+.section-projects h2 {
+	font-size: 3rem;
 }
 
 .projects-wrapper {
@@ -280,10 +284,11 @@ header {
 
 .project-link {
 	background-color: #dbd714;
+	color: #000000;
 	padding: 1rem;
 	width: 16rem;
 	text-align: center;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	border-radius: 0.5rem;
 }
 
